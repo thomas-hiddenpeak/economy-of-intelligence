@@ -97,7 +97,7 @@ All 10 experiments have been independently verified on **two separate hardware e
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/economy-of-intelligence.git
+git clone https://github.com/thomas-hiddenpeak/economy-of-intelligence.git
 cd economy-of-intelligence
 pip install -r requirements.txt
 ```
