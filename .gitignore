@@ -1,0 +1,35 @@
+# === 论文与非公开文件（防止提前泄露）===
+完整论文.md
+起源讨论.md
+Gemini致Claude的信.md
+
+# === 过期/废弃文件 ===
+过期文件/
+
+# === 图表缓存 ===
+figures/.cache/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# === Jupyter Notebook ===
+.ipynb_checkpoints/
+
+# === 环境 ===
+.env
+.venv/
+env/
+venv/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+*.swp
+*~
