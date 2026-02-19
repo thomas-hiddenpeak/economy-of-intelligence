@@ -36,7 +36,6 @@ We propose a theoretical framework proving that **general intelligence is not th
 ├── extended_experiments.ipynb         # Extended experiments (Exp 6–7, S1–S3)
 ├── future_experiments.ipynb           # Exploratory / future-direction experiments
 ├── 实验报告.md                         # Full experiment report (Chinese)
-├── 实验报告_扩展实验.md                 # Extended experiment report (Chinese)
 └── figures/                           # All generated figures
     ├── exp1_resource_boundary.png
     ├── exp2_rank_collapse.png
@@ -138,6 +137,6 @@ This project is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The author would like to thank **Jie Zhu (朱杰)**, **Yi Shi (石一)**, and **Zijing Xu (徐子景)**, co-founders of **Hiddenpeak Inc.**, for their steadfast support throughout this research. Their assistance in shielding the author from external distractions was invaluable, allowing full concentration on the research and experiments.
+The author would like to thank **Jie Zhu (朱杰)**, **Yi Shi (石一)**, and **Zijing Xu (徐子景)**, co-founders of **Hiddenpeak Inc.**, and **Remy**, Board Secretary of **Hiddenpeak Inc.**, for their steadfast support throughout this research. Their assistance in shielding the author from external distractions was invaluable, allowing full concentration on the research and experiments.
 
 Experimental verification was performed on dual NVIDIA RTX A6000 and RM-01 portable AI supercomputer platforms.
